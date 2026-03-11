@@ -33,36 +33,3 @@ export default function ButtonList({ lingua }) {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*    <h1>Learn Web development</h1>
-          <div>
-              {
-                  lingua.map(item => (
-                      <button key={item.id} onClick={() => toggleButton(item.id)}>{item.title}</button>
-                  ))
-              }
-
-          </div> */
